@@ -1,0 +1,10 @@
+Create a table Salesmen
+Salesmen(salesman_id, name , city , age, commission) and at least 5 records.
+
+Write SQL statements for the following:
+Filter those salesmen with all information who comes from any of the cities Paris and Rome
+Make a list of salesman_id, name, city and commission of each salesman who live in cities other than Paris and Rome
+Write a SQL statement to find those salesmen with all information who gets the commission within a range of 100 and 500
+Write a query to sort out those salesmen with all information whose ID value is within any of 3007, 3008 and 3009.
+Write a SQL statement to find those salesmen with all other information and name started with any letter within 'A' and 'K'
+
