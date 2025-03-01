@@ -53,13 +53,3 @@ SELECT MAX(salary) AS HighestSalary FROM Employees;
 +---------------+
 ```
 
-## Notes
-- The script limits conversation history to the last 5 exchanges for context management.
-- Ensure that the API key provided is valid and has sufficient quota.
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-[Your Name]
-
